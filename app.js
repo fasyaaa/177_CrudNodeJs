@@ -24,3 +24,4 @@ app.use((req, res) => {
 app.listen(port, () => {
     console.log(`Server udah lari at http://localhost:${port}/`);
 });
+
